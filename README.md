@@ -1,4 +1,4 @@
-# AgroManager
+# RxJSAngularMaterial
 
 Pré-requisitos: Certifique-se de que você tenha o Node.js, o Angular CLI e workbench mysql instalados em sua máquina. Se não tiver, você pode baixá-los em nodejs.org e angular.io. https://dev.mysql.com/downloads/workbench/
 
